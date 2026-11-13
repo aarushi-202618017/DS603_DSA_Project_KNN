@@ -37,13 +37,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## Run Correctness Tests
-
-```bash
-python test_knn.py
-```
-
-The custom KD-Tree passed 1,200 random query checks and additional duplicate-point and equal-distance tests.
 
 ## Benchmark Results
 
