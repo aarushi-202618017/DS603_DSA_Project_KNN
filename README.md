@@ -4,6 +4,8 @@
 
 A Python Streamlit application that compares a custom KD-Tree with brute-force K-Nearest Neighbors (KNN) for forest cover classification.
 
+**Dashboard Link: https://ds603-dsaproject-grp09-knn-kdtree-bruteforce.streamlit.app/**
+
 ## Features
 
 - KD-Tree implemented from scratch using median splitting, recursive search, pruning, and a max-heap.
